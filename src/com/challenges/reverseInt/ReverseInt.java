@@ -5,6 +5,7 @@ import com.utils.Challenge;
 public class ReverseInt implements Challenge {
     int x;
     int originalX;
+
     public ReverseInt(int revInt) {
         x = revInt;
         originalX = revInt;
